@@ -1,0 +1,1 @@
+# SOC-Automation-Wazuh-Shuffle-AWS
